@@ -8,7 +8,9 @@ This project analyzes road accident data in the United Kingdom for 2021–2022. 
 ## 📂 Data Source
 - **Dataset:** UK Road Safety Data (publicly available via data.gov.uk)
 - **Period:** 2021 – 2022
+- **Full dataset used in this analysis:** [Download from Google Drive](https://drive.google.com/drive/folders/1tZD1Ba7If239T1QBiqOAJCX6jHQWXiqA?usp=drive_link) 
 - **Key fields:** Accident Date, Accident_Severity, Vehicle_Type, Road_Type, Light_Conditions, Urban_or_Rural_Area, Latitude, Longitude, Number_of_Casualties...
+- **Note:** Due to GitHub file size limitations, the complete dataset is hosted externally.
 
 ## 🔧 Methodology
 1. **Data Cleaning & Modeling:** Used Power Query to handle missing values, create a date table, and build relationships.
