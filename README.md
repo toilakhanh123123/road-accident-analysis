@@ -70,3 +70,14 @@ This project analyzes road accident data in the United Kingdom for 2021–2022. 
 - **Power BI:** Power Query, DAX, interactive dashboard development
 - **Excel:** Data inspection & initial cleaning
 - **Analytical Thinking:** Hypothesis-driven exploration, insight synthesis, business storytelling
+
+
+
+## 📫 Contact
+For any questions or feedback, feel free to connect with me on:
+- 💼 [LinkedIn](https://www.linkedin.com/in/khánh-vũ-027020287/)
+- 🐙 [GitHub](https://github.com/toilakhanh123123)
+
+---
+
+*This project is part of my Data Analyst portfolio. All insights are derived from open government data.*
