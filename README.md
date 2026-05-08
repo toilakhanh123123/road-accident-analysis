@@ -17,7 +17,7 @@ This project analyzes road accident data in the United Kingdom for 2021–2022. 
 4. **Insight Extraction:** Explored correlations between severity and risk factors, identified seasonal patterns and geographic hotspots.
 
 ## 📈 Dashboard Walkthrough
-![Dashboard GIF](./images/dashboard.gif)
+![Dashboard GIF](./Images/road-accident-dashboard.gif)
 
 *Click to view the full interaction. For a closer look, download the .pbix file below.*
 
