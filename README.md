@@ -1,5 +1,4 @@
-# road-accident-analysis
-Analyzing UK road accident data 2021-2022 with Power BI | Interactive dashboard showcasing casualty trends, vehicle types, road conditions, and geographic hotspots.
+<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/8467fba2-4bc0-448f-a771-b12ac7b002aa" />
 
 # 🚗 Road Accident Analysis | Power BI
 
